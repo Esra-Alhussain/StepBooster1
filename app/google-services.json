@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061322795303",
+    "firebase_url": "https://stepsbooster-cba78.firebaseio.com",
+    "project_id": "stepsbooster-cba78",
+    "storage_bucket": "stepsbooster-cba78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061322795303:android:616c59168c023bca",
+        "android_client_info": {
+          "package_name": "android.example.stepsbooster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061322795303-o0m110tt6emr98knesg81qvmp6820jur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Cfqy0fqA3ojqqs0nx1oXwUdT-Llm5yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061322795303-o0m110tt6emr98knesg81qvmp6820jur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
